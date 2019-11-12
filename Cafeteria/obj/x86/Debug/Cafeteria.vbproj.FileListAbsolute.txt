@@ -1,0 +1,32 @@
+C:\Users\EquipoGG\AppData\Local\Temporary Projects\Cafeteria\bin\Debug\Cafeteria.exe
+C:\Users\EquipoGG\AppData\Local\Temporary Projects\Cafeteria\bin\Debug\Cafeteria.pdb
+C:\Users\EquipoGG\AppData\Local\Temporary Projects\Cafeteria\bin\Debug\Cafeteria.xml
+C:\Users\EquipoGG\AppData\Local\Temporary Projects\Cafeteria\obj\x86\Debug\Cafeteria.Form1.resources
+C:\Users\EquipoGG\AppData\Local\Temporary Projects\Cafeteria\obj\x86\Debug\Cafeteria.Resources.resources
+C:\Users\EquipoGG\AppData\Local\Temporary Projects\Cafeteria\obj\x86\Debug\Cafeteria.vbproj.GenerateResource.Cache
+C:\Users\EquipoGG\AppData\Local\Temporary Projects\Cafeteria\obj\x86\Debug\Cafeteria.exe
+C:\Users\EquipoGG\AppData\Local\Temporary Projects\Cafeteria\obj\x86\Debug\Cafeteria.xml
+C:\Users\EquipoGG\AppData\Local\Temporary Projects\Cafeteria\obj\x86\Debug\Cafeteria.pdb
+C:\Users\EquipoGG\AppData\Local\Temporary Projects\Cafeteria\obj\x86\Debug\Cafeteria.Menu.resources
+C:\Users\EquipoGG\documents\visual studio 2010\Projects\Cafeteria\Cafeteria\obj\x86\Debug\Cafeteria.exe
+C:\Users\EquipoGG\documents\visual studio 2010\Projects\Cafeteria\Cafeteria\obj\x86\Debug\Cafeteria.xml
+C:\Users\EquipoGG\documents\visual studio 2010\Projects\Cafeteria\Cafeteria\obj\x86\Debug\Cafeteria.pdb
+C:\Users\EquipoGG\documents\visual studio 2010\Projects\Cafeteria\Cafeteria\obj\x86\Debug\Cafeteria.Form1.resources
+C:\Users\EquipoGG\documents\visual studio 2010\Projects\Cafeteria\Cafeteria\obj\x86\Debug\Cafeteria.Resources.resources
+C:\Users\EquipoGG\documents\visual studio 2010\Projects\Cafeteria\Cafeteria\obj\x86\Debug\Cafeteria.vbproj.GenerateResource.Cache
+C:\Users\EquipoGG\documents\visual studio 2010\Projects\Cafeteria\Cafeteria\bin\Debug\Cafeteria.exe
+C:\Users\EquipoGG\documents\visual studio 2010\Projects\Cafeteria\Cafeteria\bin\Debug\Cafeteria.pdb
+C:\Users\EquipoGG\documents\visual studio 2010\Projects\Cafeteria\Cafeteria\bin\Debug\Cafeteria.xml
+C:\Users\EquipoGG\documents\visual studio 2010\Projects\Cafeteria\Cafeteria\obj\x86\Debug\Cafeteria.Form2.resources
+C:\Users\EquipoGG\documents\visual studio 2010\Projects\Cafeteria\Cafeteria\obj\x86\Debug\Cafeteria.MenuCafes.resources
+C:\Users\EquipoGG\documents\visual studio 2010\Projects\Cafeteria\Cafeteria\obj\x86\Debug\Cafeteria.Cafes.resources
+C:\Users\EquipoGG\documents\visual studio 2010\Projects\Cafeteria\Cafeteria\obj\x86\Debug\Cafeteria.Desayunos.resources
+C:\Users\EquipoGG\documents\visual studio 2010\Projects\Cafeteria\Cafeteria\obj\x86\Debug\Cafeteria.Malteadas.resources
+C:\Users\EquipoGG\documents\visual studio 2010\Projects\Cafeteria\Cafeteria\obj\x86\Debug\Cafeteria.Otros.resources
+C:\Users\EquipoGG\documents\visual studio 2010\Projects\Cafeteria\Cafeteria\obj\x86\Debug\Cafeteria.Postres.resources
+C:\Users\EquipoGG\documents\visual studio 2010\Projects\Cafeteria\Cafeteria\obj\x86\Debug\Cafeteria.Login.resources
+C:\Users\EquipoGG\documents\visual studio 2010\Projects\Cafeteria\Cafeteria\obj\x86\Debug\Cafeteria.NuevosProductos.resources
+C:\Users\EquipoGG\documents\visual studio 2010\Projects\Cafeteria\Cafeteria\obj\x86\Debug\Cafeteria.AdminMenu.resources
+C:\Users\EquipoGG\documents\visual studio 2010\Projects\Cafeteria\Cafeteria\obj\x86\Debug\Cafeteria.ActualizarProductos.resources
+C:\Users\EquipoGG\documents\visual studio 2010\Projects\Cafeteria\Cafeteria\obj\x86\Debug\Cafeteria.VerProducto.resources
+C:\Users\EquipoGG\documents\visual studio 2010\Projects\Cafeteria\Cafeteria\obj\x86\Debug\Cafeteria.EliminarProducto.resources
